@@ -5,4 +5,4 @@
 
 **3.No Promotion of Gambling:** This tool does not promote, endorse, or encourage gambling in any form.
 
-**4.User Responsibility:** Any decisions made based on the output are at the user's discretion. Please gamble responsibly and adhere to legal guidelines in your jurisdiction.
+**4.User Responsibility:** Any decisions made based on the output are at the user's discretion.
