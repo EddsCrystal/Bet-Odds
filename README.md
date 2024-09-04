@@ -15,7 +15,7 @@ This project is a sophisticated betting calculator website developed using WebAs
 making informed betting decisions by providing comprehensive analysis of potential outcomes, akin to the betting odds calculator on Action Network. This project also explores the concept of developing an arbitrage 
 calculator, aiming to deliver both educational value and practical utility for users interested in strategic betting.
 
-* Link to WebApp (https://eddscrystal.github.io/Bet-Odds/)
+* Link to WebApp (https://bet-odds.vercel.app/)
 
 ## How It Works
 
