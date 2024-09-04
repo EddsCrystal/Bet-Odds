@@ -1,4 +1,4 @@
-# Disclaimer
+### Disclaimer
 **1. Educational Purposes:** This betting odds calculator is intended solely for educational use.
 
 **2. Informational Output:** The calculator provides results based on user inputs and is meant for informational purposes only.
@@ -12,7 +12,9 @@ This project is a sophisticated betting calculator website developed using WebAs
 making informed betting decisions by providing comprehensive analysis of potential outcomes, akin to the betting odds calculator on Action Network. This project also explores the concept of developing an arbitrage 
 calculator, aiming to deliver both educational value and practical utility for users interested in strategic betting.
 
-## How It Works
+* Link to WebApp (https://eddscrystal.github.io/Bet-Odds/)
+
+### How It Works
 
 - **User Input:**
   - Users provide odds and stakes for different betting scenarios, with support for single, multiple, and accumulator bets.
