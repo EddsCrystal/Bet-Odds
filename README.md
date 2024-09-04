@@ -1,11 +1,11 @@
 # Disclaimer
-**1.Educational Purposes:** This betting odds calculator is intended solely for educational use.
+**1. Educational Purposes:** This betting odds calculator is intended solely for educational use.
 
-**2.Informational Output:** The calculator provides results based on user inputs and is meant for informational purposes only.
+**2. Informational Output:** The calculator provides results based on user inputs and is meant for informational purposes only.
 
-**3.No Promotion of Gambling:** This tool does not promote, endorse, or encourage gambling in any form.
+**3. No Promotion of Gambling:** This tool does not promote, endorse, or encourage gambling in any form.
 
-**4.User Responsibility:** Any decisions made based on the output are at the user's discretion.
+**4. User Responsibility:** Any decisions made based on the output are at the user's discretion.
 ## Introduction
 
 This project is a sophisticated betting calculator website developed using WebAssembly, integrating technologies such as HTML, CSS, C++, Bootstrap, and JavaScript. The calculator is designed to assist users in 
