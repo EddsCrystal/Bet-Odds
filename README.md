@@ -1,3 +1,5 @@
+# Bets Odds
+
 ### Disclaimer
 **1. Educational Purposes:** This betting odds calculator is intended solely for educational use.
 
